@@ -1,0 +1,9 @@
+2021-09-27 01:35:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found; SQL statement:
+insert into customer (name, surname, id) values (?, ?, ?) [42102-200]
+2021-09-27 01:36:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found; SQL statement:
+insert into customer (name, surname, id) values (?, ?, ?) [42102-200]
+2021-09-27 01:36:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found; SQL statement:
+insert into customer (name, surname, id) values (?, ?, ?) [42102-200]
